@@ -1,0 +1,16 @@
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\bin\Debug\mediaPlayer.exe.config
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\bin\Debug\mediaPlayer.exe
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\bin\Debug\mediaPlayer.pdb
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\obj\Debug\mediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\obj\Debug\mediaPlayer.Properties.Resources.resources
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\obj\Debug\mediaPlayer.csproj.GenerateResource.Cache
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\obj\Debug\mediaPlayer.exe
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\obj\Debug\mediaPlayer.pdb
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\obj\Debug\mediaPlayer.csproj.ResolveComReference.cache
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\obj\Debug\mediaPlayer.Form1.resources
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\obj\Debug\mediaPlayer.MusicPlayerForm.resources
+C:\Users\jendo\Desktop\ahmed programming\mediaPlayer\mediaPlayer\obj\Debug\mediaPlayer.MusicList.resources
